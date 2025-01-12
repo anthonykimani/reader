@@ -1,0 +1,103 @@
+zkps
+Polynomial Equations
+Degree of a Polynomial
+Roots of Polynomials
+Factorization
+Polynomial Rings
+Synthetic Division
+Polynomial Interpolation
+Lagrange Polynomial
+Chebyshev Polynomials
+Taylor Series
+Binomial Theorem
+Horner’s Method
+Coefficients
+Constant Term
+Monomials
+Multivariate Polynomials
+Polynomials over Finite Fields
+Cyclotomic Polynomials
+Irreducible Polynomials
+Algebraic Geometry
+Polynomial Function
+Polynomial Identity
+Roots Multiplicity
+Vieta’s Formulas
+Matrices
+Matrix Multiplication
+Determinant
+Inverse Matrix
+Eigenvalues and Eigenvectors
+Diagonalization
+Matrix Decomposition
+Rank of a Matrix
+Singular Value Decomposition (SVD)
+Matrix Transpose
+Symmetric Matrix
+Identity Matrix
+Sparse Matrix
+Matrix Exponentiation
+Matrix Inversion
+LU Decomposition
+QR Decomposition
+Block Matrix
+Row Echelon Form
+Column Space
+Null Space
+Matrix Factorization
+Matrix Norms
+Hadamard Product
+Matrix Factorization
+Liquidity Pools
+Crypto Economics
+Zero-Knowledge Proofs
+zk-SNARKs
+zk-STARKs
+Proof of Knowledge
+Non-Interactive Proofs
+Verifiable Computation
+Homomorphic Encryption
+Circuit Satisfiability
+Fiat-Shamir Heuristic
+Zero-Knowledge Succinct Non-Interactive Arguments
+Trusted Setup
+Prover
+Verifier
+Cryptographic Protocols
+Privacy-preserving
+Decentralized Identity
+Secure Multi-Party Computation
+Groth16
+Plonk
+Bulletproofs
+Merkle Trees
+zk-Rollups
+zkEVM
+Recursive Proofs
+Math
+Algebra
+Calculus
+Differential Equations
+Linear Algebra
+Geometry
+Trigonometry
+Topology
+Set Theory
+Probability
+Combinatorics
+Number Theory
+Discrete Mathematics
+Optimization
+Logic
+Mathematical Proofs
+Fourier Transform
+Eigenvalues
+Eigenvectors
+Group Theory
+Symmetry
+Cryptography
+Statistical Inference
+Permutations
+Random Variables
+Distributions
+Gaussian Elimination
