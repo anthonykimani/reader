@@ -4,7 +4,7 @@ use std::fs::File;
 use std::env::args;
 
 fn main() -> Result<(), std::io::Error> {
-	if args().len() != 2 {
+	if args().len() != 3 {
 		eprintln!("Usage: `source` `target`");
 		return Ok(());
 	}
@@ -17,7 +17,7 @@ fn main() -> Result<(), std::io::Error> {
 		
 	// 	println!("First word is {:?} and is {:?} bytes long", line, len);
 	// }
-	let readline1 = reader.lines().map(|l| l.unwrap());
-	println!("{:?}", readline1.for_each(|f| println!("{} are made up of {:?} Letters", f, f.len())));
+	let search_collection: Vec<String> = reader.lines().filter_map(|l| l.ok().filter(|l| l.contains(&args().nth(2).unwrap()))).collect();
+	println!("{:?}", search_collection);
 	Ok(())
 }
